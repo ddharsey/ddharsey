@@ -28,6 +28,7 @@ Microsoft Certified: Azure Fundamentals (AZ-900) · Azure AI Fundamentals (AI-90
 ## Education
 
 **MSc Cyber-Physical Systems** — University of Nottingham
+
 **BSc (Hons) Computer Science** — University of Sussex
 
 ## Connect
